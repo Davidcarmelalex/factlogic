@@ -1,69 +1,52 @@
-# FactLogic
 
-> Evidence beats belief. Every time.
+```
+███████╗ █████╗  ██████╗████████╗██╗      ██████╗  ██████╗ ██╗ ██████╗
+██╔════╝██╔══██╗██╔════╝╚══██╔══╝██║     ██╔═══██╗██╔════╝ ██║██╔════╝
+█████╗  ███████║██║        ██║   ██║     ██║   ██║██║  ███╗██║██║
+██╔══╝  ██╔══██║██║        ██║   ██║     ██║   ██║██║   ██║██║██║
+██║     ██║  ██║╚██████╗   ██║   ███████╗╚██████╔╝╚██████╔╝██║╚██████╗
+╚═╝     ╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝ ╚═════╝
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-gold.svg)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org)
-[![Part of](https://img.shields.io/badge/FCRI-Research-gold)](https://fcri.science)
+           ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+           █  M Y T H   I N :   ▓▓▓▓▓░░░░░   BUSTED  █
+           ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-**FactLogic** is the ultimate myth-busting engine — separating scientific evidence from misinformation through rigorous critical analysis and clear logical reasoning.
+        ┌──────────────────────────────────────────────────┐
+        │  VERDICT ENGINE  ·  LOGIC SCORE  ·  SCIENCE DB  │
+        │                                                  │
+        │   ✓ CONFIRMED    ✗ DEBUNKED    ~ INVESTIGATING   │
+        │                                                  │
+        │   "If it can't survive scrutiny,                 │
+        │    it was never a fact to begin with."           │
+        └──────────────────────────────────────────────────┘
 
-Every claim gets a verdict. Every verdict gets its evidence.
+                ⚡ SEPARATING SIGNAL FROM NOISE ⚡
+               github.com/Davidcarmelalex/factlogic
+                      part of the FCRI network
+```
+
+
+# FactLogic — The Truth Doesn't Negotiate
+
+> If it cannot survive scrutiny, it was never a fact.
+
+FactLogic — myth-busting engine. Part of M&R&Nothing.
 
 ---
 
-## Verdict System
+## Part of the M&R&Nothing Ecosystem
 
-| Verdict | Meaning |
-|---------|---------|
-| ✅ TRUE | Supported by strong scientific consensus |
-| ❌ FALSE | Contradicted by evidence |
-| ⚠️ MISLEADING | Contains truth but distorts context |
-| 🔬 NUANCED | Partially true — context matters |
-| ❓ UNVERIFIED | Insufficient evidence to conclude |
+```
+◈  MRN°  ·  M&R&Nothing  ·  2026  ◈
+A tribute. By David Carmel Alex.
+
+[ MR//NOTHING ]  [ mSEAL ]  [ VOID//SIGNAL ]  [ FACTLOGIC ]
+[ NEXUM LABS ]  [ JAN NITI ]  [ NOTHINGBUILT ]  [ NOTHINGOS ]
+[ NOTHING HUSTLE ]  [ VOID.BOUNTY ]  [ PARTHIVE ]  [ MrNothing OS ]
+```
+
+→ [github.com/Davidcarmelalex/factlogic](https://github.com/Davidcarmelalex/factlogic)
 
 ---
 
-## Architecture
-
-```
-factlogic/
-├── src/app/
-│   ├── page.tsx           Featured myths + search
-│   ├── myth/[slug]/       Full myth investigation
-│   ├── categories/        Browse by category
-│   ├── submit/            Community myth submissions
-│   └── methodology/       How we investigate
-├── agents/
-│   └── investigator.py    AI myth investigation agent
-├── lib/
-│   └── evidence.ts        Evidence scoring utilities
-└── tests/
-```
-
----
-
-## Investigation Process
-
-```
-Claim submitted → Agent searches literature
-    → Evidence collected and scored
-    → Logic score (0–10) + Science score (0–10)
-    → Human review (optional)
-    → Verdict published with full reasoning
-```
-
----
-
-## Stack
-
-Next.js 16 · TypeScript · Tailwind CSS 4 · Python investigation agent · PostgreSQL
-
----
-
-## Quick Start
-
-```bash
-git clone https://github.com/Davidcarmelalex/factlogic
-cd factlogic && npm install && cp .env.example .env.local && npm run dev
-```
+*Built from nothing. For someone. Forever.*
